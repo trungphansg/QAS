@@ -1,0 +1,13 @@
+label#variants#tag
+0#sinh ở,đẻ ở,chào đời ở,ra đời ở,đầu thai ở#đâu
+1#cư ngụ ở,sống ở,cư trú ở,thường trú ở#đâu
+2#làm việc ở#đâu
+3#là thành phố của tỉnh,là thành phố của địa phương#nào
+4#là thành phố của nước,là thành phố của quốc gia#nào
+5#thuộc,thuộc tổ chức,thuộc cơ quan,thuộc công ty#nào
+6#là thầy của,là thầy giáo của,là giáo viên của,là giảng viên của#ai
+7#là cố đô của,là cố đô của nước,là cố đô của quốc gia#nào
+8#là thành viên của,là thành viên của tổ chức,là thành viên của cơ quan#nào
+9#làm việc cho,làm việc cho tổ chức,làm việc cho cơ quan,làm việc cho công ty#nào
+10#là tỉnh của,là tỉnh của nước,là tỉnh của quốc gia#nào
+11#là thủ đô của,là thủ đô của nước,là thủ đô của quốc gia#nào

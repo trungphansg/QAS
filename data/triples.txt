@@ -1,0 +1,21 @@
+Phúc#sinh ở#Huế
+Phúc#làm việc ở#Saigon
+Phúc#cư ngụ ở#Saigon
+Phúc#làm việc cho#UIT
+Phúc#là thầy của#Trung
+Huế#là cố đô của#Việt Nam
+Saigon#là thành phố của nước#Việt Nam
+UIT#là thành viên của#VNU-HCM
+VNU-HCM#thuộc#chính phủ Việt Nam
+Trung#sinh ở#Cao Lãnh
+Trung#làm việc ở#Saigon
+Trung#cư ngụ ở#Saigon
+Trung#làm việc cho#HSU
+Cao Lãnh#là thành phố của tỉnh#Đồng Tháp
+Đồng Tháp#là tỉnh của#Việt Nam
+HSU#thuộc#Bộ Giáo Dục & Đào Tạo
+Bộ Giáo Dục & Đào Tạo#thuộc#chính phủ Việt Nam
+Trịnh Công Sơn#sinh ở#Huế
+Nhã Ca#sinh ở#Huế
+Hà Nội#là thủ đô của#Việt Nam
+Hà Nội#là thành phố của#Việt Nam
